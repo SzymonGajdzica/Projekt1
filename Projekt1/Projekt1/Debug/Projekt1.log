@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Projekt1.cpp
+c:\users\szymon\source\repos\projekt1\projekt1\projekt1.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\szymon\source\repos\projekt1\projekt1\projekt1.cpp(251): warning C4018: '<': signed/unsigned mismatch
+c:\users\szymon\source\repos\projekt1\projekt1\projekt1.cpp(260): warning C4018: '<': signed/unsigned mismatch
+  Projekt1.vcxproj -> C:\Users\szymon\source\repos\Projekt1\Debug\Projekt1.exe
